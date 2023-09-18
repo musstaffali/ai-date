@@ -9,6 +9,10 @@
     "dev": "evershop dev"
   },
   "dependencies": {
-    "@evershop/evershop": "1.0.0-rc.7"
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.20",
+    "@babel/node": "^7.22.19",
+    "@evershop/evershop": "1.0.0-rc.7",
+    "babel-jest": "^29.7.0"
   }
 }
