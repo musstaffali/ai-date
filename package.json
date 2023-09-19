@@ -15,6 +15,7 @@
     "@evershop/evershop": "1.0.0-rc.7",
     "babel-jest": "^29.7.0",
     "cypress": "^13.2.0",
-    "eslint": "^8.49.0"
+    "eslint": "^8.49.0",
+    "eslint-config-airbnb": "^19.0.4"
   }
 }
