@@ -1,6 +1,4 @@
 
-Certainly! Here's a README.md file you can include in your project to explain that it's a bare-bones example for educational purposes, encouraging users to build upon it and use their imagination:
-
 markdown
 Copy code
 # Bare-Bones Hotel Booking Web App (For Educational Purposes)
