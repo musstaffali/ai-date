@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+// src/App.js
+import React from 'react';
 import './App.css';
+import hotels from './data';
+import Hotel from './Hotel';
+import Booking from './Booking';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Hotel Booking App</h1>
+      {hotels.map((hotel) => (
+        <div key={hotel.id}>
+          <Hotel hotel={hotel} />
+          <Booking hotel={hotel} />
+        </div>
+      ))}
     </div>
   );
 }
