@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Bare-Bones Hotel Booking Web App (For Educational Purposes)
 
 Welcome to the Bare-Bones Hotel Booking Web App! This project serves as a simple starting point for learning and experimenting with React. It's intentionally minimalistic, allowing you to use your imagination and creativity to build upon it and add more features.
@@ -54,8 +51,3 @@ License
 This project is provided under the MIT License. You are free to use and modify it as you see fit. See the LICENSE file for details.
 
 Happy coding!
-
-kotlin
-Copy code
-
-You can place this `README.md` file in the root directory of your project so that anyone who visits your project repository on platforms like GitHub will see this information and understand the project's purpose.
