@@ -12,6 +12,18 @@ In the src/App.js file, you can use React hooks to manage the state and render t
 
 Step 6: Connect the components and render the data
 Run the application with npm start, and you should see a basic hotel booking webpage with information about each hotel and the ability to make reservations.
+# Bare-Bones Hotel Booking Web App (For Educational Purposes)
+
+Welcome to the Bare-Bones Hotel Booking Web App! This project serves as a simple starting point for learning and experimenting with React. It is intentionally minimalistic, allowing you to use your imagination and creativity to build upon it and add more features.
+
+## Step-by-Step Guide
+
+### Step 1: Set up a React project
+
+```bash
+npx create-react-app hotel-booking-app
+cd hotel-booking-app
+npm start
 
 Customization and Expansion
 
