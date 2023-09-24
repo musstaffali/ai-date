@@ -25,8 +25,6 @@ This project is a bare-bones hotel booking webpage built with React. It is inten
 
 [Back To The Top](#react-hotel-booking-web-app)
 
-## Getting Started
-
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
