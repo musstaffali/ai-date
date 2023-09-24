@@ -59,7 +59,7 @@ Before you begin, ensure you have the following installed:
 #### Usage
 
 
-1. python scraper.py
+1. npm start
 
 
 ## License
