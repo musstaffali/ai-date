@@ -1,4 +1,5 @@
 # React Hotel Booking Web App
+<img width="1431" alt="Screenshot 2023-09-24 at 6 34 53 PM" src="https://github.com/musstaffali/hotel-basic/assets/63834636/ad6b888a-89a6-4335-ae31-231c84315039">
 
 Welcome to the React Hotel Booking Web App! This project is a simple web application built with React, designed to help you get started with building a hotel booking platform. It provides a basic structure for displaying hotel information and allowing users to make reservations.
 
