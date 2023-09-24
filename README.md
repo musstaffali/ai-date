@@ -44,18 +44,6 @@ Before you begin, ensure you have the following installed:
 2. npm install
 
 
-3. python -m venv venv
-
-
-4.  . On Windows: venv\Scripts\activate
-    . On macOS and Linux: source venv/bin/activate
-
-
-5. pip install beautifulsoup4 requests
-
-
-
-
 #### Usage
 
 
